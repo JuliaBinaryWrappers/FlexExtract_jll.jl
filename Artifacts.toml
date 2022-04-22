@@ -1,0 +1,186 @@
+[[FlexExtract]]
+arch = "aarch64"
+git-tree-sha1 = "6629e8fe1557eee4375793736e7434962d0f0dd0"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "4dffa5576a7815b9a2028dff564a02884c6bc9764058f56a2a47d265c23e05de"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[FlexExtract]]
+arch = "aarch64"
+git-tree-sha1 = "5b0c3917926a57d3c490f473f5638f37fa4ee03a"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "cec1ae28c30c294ea8fca11d310df076101d3cd30d1584e81dd042f05b7b0608"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[FlexExtract]]
+arch = "aarch64"
+git-tree-sha1 = "4a13943d136ea879757b3b9d4a796738dce40f09"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "3c6b66684f7dc0934fa2a2fcac47ea057b14a453098b0c37d1e5172192765b1b"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[FlexExtract]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8b096563586fdd9e5012b58b1b8ff299e3ad96be"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "5d705b927ca8824e7701db55567eb5ac3b8f230f3fe0fe9ea0cb462aba28a09e"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[FlexExtract]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "14cf08bc8b5fdc987408fc709a6d9f628d16a412"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "a317dee36d536ead4047464d89220a889b2cdbd3e6dbedee9f4af1f81d216a7f"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[FlexExtract]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fba04963381f39617920ecb7db6eb5178c829d58"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "072eef90278f67a60d98759e703f04456d679182fff2f22fb7e6ea4724982a0e"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[FlexExtract]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2f931bbaaea69c51cd35a2338576dbdc188ec6e3"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "8c82a85736f6e548b197790baa587274226dc2b3bee0aedd544ac55fdb283950"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[FlexExtract]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "76f9b02f42577bb935c439b63e324cbddb6a037d"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "d40c44db48d4a8018036e85199558ed65dad1cfb87f9a96972c9fa365c2064d2"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[FlexExtract]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d937504e7486edc61837ac2aa0ad7bcde2e2b434"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "4c0b6e950bffa52dbde247e695822c7093174c9863bd8b13d3e146e39dfc0732"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[FlexExtract]]
+arch = "i686"
+git-tree-sha1 = "77930ec9a22c45927975afb67f20716b6c5c2e1f"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "22be019c9156ba8abe20bdf145442bf2935005263e37b90b0d2d25fd0d7a4053"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.i686-linux-gnu-libgfortran3.tar.gz"
+[[FlexExtract]]
+arch = "i686"
+git-tree-sha1 = "a162aca60afc8ac7cdeb358a90421f25a1fa72ab"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "f699efe51b3124b56077b05fad7053b493862d2ab30d31c550e09c7bd9e68ab4"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.i686-linux-gnu-libgfortran4.tar.gz"
+[[FlexExtract]]
+arch = "i686"
+git-tree-sha1 = "01d7737a4f0faa5d6c5ba5f3fbfa52378ec3b2a9"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "43d8781733e53b0dca878f7b48952ac245451b67ef26c5deae6c3aaf76e790f1"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.i686-linux-gnu-libgfortran5.tar.gz"
+[[FlexExtract]]
+arch = "powerpc64le"
+git-tree-sha1 = "24f094e30a64e84e0edc783f425e9c11fb9e97f8"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "25aa86913f072d49e67c98b80f89c80b4fc87ae644938cf18979a7d52e725cd2"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[FlexExtract]]
+arch = "powerpc64le"
+git-tree-sha1 = "5a1954a7a7c98833bcf6f9f36a3fd8689d8afe16"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "d143f47fc8b43a1e0498858e07ac4fa2527e36c920158f8b73b3e3738c0b4234"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[FlexExtract]]
+arch = "powerpc64le"
+git-tree-sha1 = "4decd36f6fc297c131bb6242ec5aa30fa4020128"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "f1ccd0b65b528772c2a0f4722865fbbe67f1de56c28b5fe0ec2c29db019ac5b6"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[FlexExtract]]
+arch = "x86_64"
+git-tree-sha1 = "f02011a49e6a0489c2abc670718a7e37c3ebdad1"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "a890049337e62af044eb776aaef05839b6dd11c56cb6ebdb96a6d1b889620c35"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[FlexExtract]]
+arch = "x86_64"
+git-tree-sha1 = "32bd6bd73df4e44a005babfaa091932d7bfd11bf"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "7f2232687edbd662f8ccfc8441eaef71134a6266accbaf309670fac927d09f65"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[FlexExtract]]
+arch = "x86_64"
+git-tree-sha1 = "b3929f4e394a1f4801f58366473b4311267dbfa6"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FlexExtract.download]]
+    sha256 = "c5e521410483e991c64a1d9591139cdddf3a218731d12cdd4d2c43263e50aaff"
+    url = "https://github.com/JuliaBinaryWrappers/FlexExtract_jll.jl/releases/download/FlexExtract-v7.1.2+0/FlexExtract.v7.1.2.x86_64-linux-gnu-libgfortran5.tar.gz"
